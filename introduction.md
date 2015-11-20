@@ -10,7 +10,6 @@ This is my intro file.
 -Html
 -git
 
-- Javascript
-- Css
-- Html
-- git
+-* Javascript
+-* Html
+-* git
