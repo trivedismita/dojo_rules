@@ -5,3 +5,11 @@ My favorite Code School path is Javascript.
 
 This is my intro file. 
 
+-Javascript
+-Css
+-Html
+-git
+
+-* Javascript
+-* Html
+-* git
